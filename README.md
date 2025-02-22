@@ -28,7 +28,6 @@ Hi there! I'm **El_Shadow Academy**, a passionate **Frontend Developer** dedicat
 
 ### 📡 Connect with Me  
 🌐 **GitHub:** [El_Shadow Academy](https://github.com/El-Shadow-Academy)  
-📺 **YouTube:** [El_Shadow Academy](#) *(Replace with actual link)*  
-📩 **Email:** your-email@example.com *(Replace with your email)*  
+📺 **YouTube:** [El_Shadow Academy] (https://www.youtube.com/channel/UCLdT1ki9ESdujQWVPnncSrg)
 
 🚀 **Explore, Learn, and Build!** 🚀
